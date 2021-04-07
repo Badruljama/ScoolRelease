@@ -35,6 +35,9 @@ li{
     border: none;
     outline: none;
 }
+.window_sec{
+    margin-left: 130px;
+ }
 .window_img{
     margin-top: 50px;
     width: 60%;
