@@ -35,3 +35,118 @@ li{
     border: none;
     outline: none;
 }
+.window_img{
+    margin-top: 50px;
+    width: 60%;
+    height: 60vh;
+    border-radius: 20px;
+}
+.product{
+    position: relative;
+    background-color: #ffff;
+    margin-top: -30px;
+    box-shadow: 0px 0px 20px #bebebe;
+    width: 60%;
+    border-radius: 20px;
+    padding: 20px;
+}
+.iphone{
+    float: left;
+    font-size: 1rem;
+}
+.rs{
+    margin-left: 8rem;
+    text-decoration: line-through;
+    font-size: 0.9rem;
+}
+.rs-2{
+    margin-left: 20px;
+    font-size: 1rem;
+}
+.line{
+    display: flex;
+    margin-top: 30px;
+}
+.line-2{
+    width: 100px;
+    height: 2px;
+    background-color: #F3164D;
+}
+.apply{
+    margin-left: 10rem;
+    margin-top: -10px;
+    text-decoration: underline;
+    font-size: 0.9rem;
+}
+.apply a{
+    cursor: pointer;
+    text-decoration: none;
+    color: #F3164D;
+}
+.list ul{
+    display: flex;
+    margin: 20px;
+    font-size: 0.8em;
+}
+.list li{
+    margin: 20px;
+    list-style: none;
+}
+.list .book{
+    cursor: pointer;
+    width: 20%;
+    padding: 10px;
+    float: right;
+    margin-top: -4rem;
+    background-color: #F3164D;
+    border-radius: 7px;
+    outline: none;
+    border: none;
+    color: #ffffff;
+}
+.left-side{
+    float: right;
+    margin-right: 8rem;
+    margin-top: 50px;
+    background-color: #ffff;
+    box-shadow: 0px 0px 20px #bebebe;
+    width: 25%;
+    /* height: 20%; */
+    border-radius: 20px;
+    padding: 30px;
+}
+.profile-pi{
+    width: 80%;
+    height: 39vh;
+    margin-left: 30px;
+}
+.name{
+    text-align: center;
+    margin-top: 30px;
+    text-transform: uppercase;
+    color: #F3164D;
+}
+.serial{
+    text-align: center;
+    margin-top: 20px;
+}
+.left-side-p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+.left-side ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+}
+.left-side ul li{
+    background-color: #F2F4F7;
+    list-style: none;
+    margin: 5px;
+    font-size: 0.5rem;
+    font-weight: bold;
+    font-weight: 800;
+    padding: 20px;
+}
