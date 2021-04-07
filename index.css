@@ -239,3 +239,21 @@ li{
     padding: 30px;
     line-height: 1.5;
 }
+iframe{
+    float: left;
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 700px;
+    height: 370px;
+}
+.video-list{
+    float: right;
+    margin-top: 20px;
+    margin-right: 9rem;
+    background-color: #ffff;
+    box-shadow: 0px 0px 20px #bebebe;
+    width: 28%;
+    height: 370px;
+    border-radius: 20px;
+    padding: 10px;
+}
